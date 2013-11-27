@@ -1,2 +1,2 @@
-HelloWorld is a Test Project.
+HelloWorld is a test project.
 
